@@ -1,4 +1,3 @@
-##THIS IS A SIMPLE COMMENT
 spring:
   jpa:
     hibernate:
