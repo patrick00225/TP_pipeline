@@ -5,4 +5,4 @@ mvn test
 
 pour lancer la compilation:
 
-mvn package
+mvn clean package
