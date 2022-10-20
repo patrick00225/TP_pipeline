@@ -1,0 +1,16 @@
+com/rbittencourt/JenkinsPipelineExampleIT.class
+com/rbittencourt/ui/element/TextField.class
+com/rbittencourt/ui/page/Menu.class
+com/rbittencourt/services/ProductServiceTest.class
+com/rbittencourt/ui/element/ElementFactory.class
+com/rbittencourt/ui/page/ProductListPage.class
+com/rbittencourt/ui/element/Button.class
+com/rbittencourt/ui/page/ViewProductPage.class
+com/rbittencourt/repositories/ProductRepositoryIT.class
+com/rbittencourt/configuration/RepositoryConfiguration.class
+com/rbittencourt/ui/driver/DriverFactory.class
+com/rbittencourt/ui/page/ProductFormPage.class
+com/rbittencourt/ui/element/Paragraph.class
+com/rbittencourt/ui/element/Link.class
+com/rbittencourt/ui/test/ProductUiCreateUiTest.class
+com/rbittencourt/ui/test/ProductUiEditUiTest.class

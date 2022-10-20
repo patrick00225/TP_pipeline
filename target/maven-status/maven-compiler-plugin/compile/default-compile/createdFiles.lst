@@ -1,0 +1,8 @@
+com/rbittencourt/configuration/SecurityConfiguration.class
+com/rbittencourt/web/IndexController.class
+com/rbittencourt/configuration/WebConfiguration.class
+com/rbittencourt/domain/Product.class
+com/rbittencourt/services/ProductService.class
+com/rbittencourt/JenkinsPipelineExample.class
+com/rbittencourt/repositories/ProductRepository.class
+com/rbittencourt/web/ProductController.class

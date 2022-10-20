@@ -1,0 +1,8 @@
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/JenkinsPipelineExample.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/domain/Product.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/web/IndexController.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/web/ProductController.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/configuration/WebConfiguration.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/configuration/SecurityConfiguration.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/repositories/ProductRepository.java
+/home/devops-ci/TP_pipeline/src/main/java/com/rbittencourt/services/ProductService.java

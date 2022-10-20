@@ -1,0 +1,16 @@
+/home/devops-ci/TP_pipeline/src/test/java/com/rbittencourt/services/ProductServiceTest.java
+/home/devops-ci/TP_pipeline/src/it/java/com/rbittencourt/JenkinsPipelineExampleIT.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/element/Link.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/page/ProductListPage.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/page/Menu.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/test/ProductUiCreateUiTest.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/element/TextField.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/element/Paragraph.java
+/home/devops-ci/TP_pipeline/src/it/java/com/rbittencourt/configuration/RepositoryConfiguration.java
+/home/devops-ci/TP_pipeline/src/it/java/com/rbittencourt/repositories/ProductRepositoryIT.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/driver/DriverFactory.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/element/ElementFactory.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/page/ViewProductPage.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/page/ProductFormPage.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/test/ProductUiEditUiTest.java
+/home/devops-ci/TP_pipeline/src/ui-test/com/rbittencourt/ui/element/Button.java
